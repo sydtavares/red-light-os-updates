@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-11-26T19:49:36.9890353Z",
-  "version": "4.22.0",
-  "notes": "Atualização automática do Red Light OS",
+  "version": "4.23.0",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdzhRd3d2a1NCbDhTamVmcStneHUrS1JrSDk0RU9TN2N5dGR0cDJ3ZU01aUNjeTREc2RlYlYrNGJhamRvdHZKZ1ovYTVwZ2o3SHhlK2E2cDc3cDh0MnFDQ1o1dmRRaHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzIyNTc1CWZpbGU6UmVkIExpZ2h0IE9TXzQuMjIuMF94NjQtc2V0dXAuZXhlCkFBZE16bHlXQW44K3ZvYkU5MXlzMnl4eHA5OXFlUGt1Y2NIR2xxZk1RNi9BK25JN3AxcUVYUkpHZytOcWRPUU5seUZnYjdiMUVMU2RNT1IwTjBLTUJ3PT0K",
-      "url": "https://raw.githubusercontent.com/sydtavares/red-light-os-updates/main/Red Light OS_4.22.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdzhRd3d2a1NCbDF1QlRQbmhUOHlSTDFWV0daZ1lDUC9UbHVyVnVvOTBEUEF6SGR4bzFlZW1CZENlMDBhZ3BJd1dOd2E0aHR0bXhrc3YyKzMrNG1uR1U1RjFQZ1drdWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzIzNDU0CWZpbGU6UmVkIExpZ2h0IE9TXzQuMjMuMF94NjQtc2V0dXAuZXhlCmVTUzlyekJlWUFWRURwVElxWnlDQUJwRU45WnJ1RFB2UjhtL0pjQWlXNHpYd3VKL2dzcml6NlF6d0dlaFp0Q0JxMThLdDNObDlBYVNZblh0REdYWkFnPT0K",
+      "url": "https://raw.githubusercontent.com/sydtavares/red-light-os-updates/main/Red Light OS_4.23.0_x64-setup.exe"
     }
-  }
+  },
+  "notes": "Atualização automática do Red Light OS",
+  "pub_date": "2026-11-26T20:04:16.1239308Z"
 }
